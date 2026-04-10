@@ -60,8 +60,8 @@ Business Recommendations
 
 Dashboard Preview
 ---
-![Page 1](https://github.com/Shaheermustafa2/customer-segmentation-rfm-analysis/blob/main/screenshots/Screenshot%202026-02-11%20134216.png)
-![Page 2](https://github.com/Shaheermustafa2/customer-segmentation-rfm-analysis/blob/main/screenshots/Screenshot%202026-02-11%20134304.png)
+![Page 1](https://github.com/Shaheermustafa2/Customer-Churn-Analysis-Project/blob/main/Screenshots/Screenshot%202026-04-10%20155331.png)
+![Page 2](https://github.com/Shaheermustafa2/Customer-Churn-Analysis-Project/blob/main/Screenshots/Screenshot%202026-04-10%20155359.png)
 
 
 
